@@ -12,6 +12,11 @@
 [![](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![](https://img.shields.io/badge/Matlab-cD1?style=for-the-badge&logo=matlab)](https://www.mathworks.com/products/matlab.html)
 
+# 💻 Workspace Spec
+[![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)]()
+[![](https://img.shields.io/badge/nvidia-gtx750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![](https://img.shields.io/badge/intel-core%20i7%202th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)]()
+
 # Contact
 
 [![](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:kerim_celebiler@hotmail.com)
@@ -20,8 +25,3 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kerim_celebiler/)
 [![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kralturkey13)
 [![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kerimcelebiler/)
-
-# 💻 Workspace Spec
-[![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)]()
-[![](https://img.shields.io/badge/nvidia-gtx750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)]()
-[![](https://img.shields.io/badge/intel-core%20i7%202th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)]()
