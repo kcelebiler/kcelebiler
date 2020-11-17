@@ -6,8 +6,10 @@
 
 # İlgilendiğim alanlar
 
-[![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)]
-[![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white]
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
+[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
 
 # Benimle iletişime geçin!
 
