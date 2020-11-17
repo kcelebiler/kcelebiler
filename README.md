@@ -11,6 +11,8 @@
 [![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)](https://keras.io/)
 [![](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![](https://img.shields.io/badge/Matlab-cD1?style=for-the-badge&logo=matlab)](https://www.mathworks.com/products/matlab.html)
+[![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/tr-tr/dotnet/csharp/)
+[![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 
 # 💻 Workspace Spec
 [![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)]()
