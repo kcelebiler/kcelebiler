@@ -7,7 +7,7 @@
 # Interests
 
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)](https://www.python.org/)
-[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow&Color=Green)](https://www.tensorflow.org/)
+[![](https://img.shields.io/badge/Tensorflow%20-%23239120.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)](https://keras.io/)
 [![](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![](https://img.shields.io/badge/Matlab-cD1?style=for-the-badge&logo=matlab)](https://www.mathworks.com/products/matlab.html)
