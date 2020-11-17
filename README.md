@@ -23,5 +23,5 @@
 
 # 💻 Workspace Spec
 [![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)]()
-[![](https://img.shields.io/badge/nvidia-gtx650-ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![](https://img.shields.io/badge/nvidia-gtx750-ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)]()
 [![](https://img.shields.io/badge/intel-core%20i7%202th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)]()
