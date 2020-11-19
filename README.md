@@ -26,11 +26,11 @@
 
 # Contact
 
-[![](https://img.shields.io/badge/E-Mail-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:kerim_celebiler@hotmail.com)
+[![](https://img.shields.io/badge/E%20-%20Mail-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:kerim_celebiler@hotmail.com)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/celebiler_kerim)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-%C3%A7elebiler-6536b2139/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kerim_celebiler/)
 [![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kralturkey13)
 [![](https://img.shields.io/badge/Kaggle-%23239120.svg?&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kerimelebiler)
 [![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/kerimcelebiler/)
-[![](https://img.shields.io/badge/Freelancer-%231DA1F2.svg?&style=for-the-badge&logo=freelancer)](https://www.freelancer.com/u/kerimcelebiler)
+[![](https://img.shields.io/badge/Freelancer-%231DA1F2.svg?&style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/kerimcelebiler)
