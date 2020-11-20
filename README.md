@@ -18,6 +18,7 @@
 [![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/Arduino-cD1?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
 
+[![](https://img.shields.io/badge/Astronomy%20-%23100000.svg?&style=for-the-badge&logo=astronomy)]()
 
 # 💻 Workspace Spec
 [![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)]()
