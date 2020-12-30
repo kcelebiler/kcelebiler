@@ -33,5 +33,6 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kerim_celebiler/)
 [![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kralturkey13)
 [![](https://img.shields.io/badge/Kaggle-%23239120.svg?&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kerimelebiler)
+[![](https://img.shields.io/badge/Leetcode%20-%23239120.svg?&style=for-the-badge&logo=leetcode)](https://leetcode.com/kralturkey13/)
 [![](https://img.shields.io/badge/Freelancer-%231DA1F2.svg?&style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/kerimcelebiler)
 [![](https://img.shields.io/badge/Fiverr-%23239120.svg?&style=for-the-badge&logo=fiverr)](https://www.fiverr.com/kerimcelebiler?up_rollout=true)
