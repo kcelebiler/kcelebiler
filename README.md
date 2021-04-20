@@ -37,6 +37,8 @@
 [![](https://img.shields.io/badge/Leetcode%20-%23239120.svg?&style=for-the-badge&logo=leetcode)](https://leetcode.com/kralturkey13/)
 [![](https://img.shields.io/badge/Freelancer-%231DA1F2.svg?&style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/kerimcelebiler)
 [![](https://img.shields.io/badge/Fiverr-%23239120.svg?&style=for-the-badge&logo=fiverr)](https://www.fiverr.com/kerimcelebiler?up_rollout=true)
+[![](https://img.shields.io/badge/Sololearn-%231DA1F2.svg?&style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/7129848)
+
 
 [![](https://img.shields.io/badge/Imdb-%23239120.svg?&style=for-the-badge&logo=imdb)](https://www.imdb.com/user/ur68822877/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0)
 [![](https://img.shields.io/badge/Youtube%20Playlist%201-%23239120.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PL3HO2mRVuXnXccE0w3TSW5s5VKVb7wsW8)
