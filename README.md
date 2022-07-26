@@ -2,7 +2,7 @@
 
 # Hello, I am Kerim Görkem Çelebiler! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kralturkey13" alt="kralturkey13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kralturkey13" alt="kcelebiler" /> </p>
 
 # Skills
 
